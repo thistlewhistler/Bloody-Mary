@@ -1,0 +1,9 @@
+So.
+Intention of this is twofold.
+•Produce a code with function to push notifications of a comic updating
+  Either when the comic actually updates (ideal)
+    or daily.
+•Implement this code in Discord as a webhook
+  Redirecting the expected result of changes to this repository instead to the webcomic.
+.
+That's the plan anyway.
