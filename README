@@ -5,5 +5,17 @@ Intention of this is twofold.
     or daily.
 •Implement this code in Discord as a webhook
   Redirecting the expected result of changes to this repository instead to the webcomic.
-.
+    So. How do I change what the webhook posts as a result? How might I get the webhook to push a file that I wrote in this github?
 That's the plan anyway.
+.
+8.11.18 18:43
+I feel like I may be going about this the wrong way. That a webhook is only able to push notifications of a change to github.
+And I can't trick it into pushing notifications about something else.
+.
+So the quesiton becomes: How do I get something in Discord to push a notification about a website?
+I need a device to push a payload from one place to another.
+I am presuming if github is the brain, and a website update is the payload happening in a location, 
+and Discord being another location,
+The device would be either a webhook or something else to inform Discord that the brain detected a payload.
+Am I describing a bot? Is that what I need?
+.
